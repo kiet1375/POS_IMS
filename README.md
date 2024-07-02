@@ -28,7 +28,7 @@ dotnet run.
 Then go into client root folder to run Angular. <br />
 Further information in found in README.md in client root folder.<br /><br />
 IMS.exe is located in bin folder in IMS root folder.<br/> <br/>
-Authentication and Authorisation with 2FA and DatabaseSeeder.cs  will be available after 7/7/2024.Owin Autho2 will be the backbone of the Authentication and Authorisation component.
+Authentication and Authorisation with 2FA and DatabaseSeeder.cs  will be available after 7/7/2024.Owin OAuth2 will be the backbone of the Authentication and Authorisation component.
 
 <br/><br />
 <b>Note: Receipts table to Sales relationship will be added in final phase of POS construction.</b>
